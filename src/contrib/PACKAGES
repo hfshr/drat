@@ -1,0 +1,6 @@
+Package: qbr
+Version: 0.0.1
+Imports: dplyr, htmlwidgets, palmerpenguins, rlang, shiny
+License: MIT + file LICENSE
+MD5sum: 1e49e36adebea8a7469569c4e07c5850
+NeedsCompilation: no
