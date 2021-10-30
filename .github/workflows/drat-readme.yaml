@@ -20,6 +20,7 @@ jobs:
           fetch-depth: '0' # Allows corect dates in git history
 
       - uses: r-lib/actions/setup-r@master
+      - uses: r-lib/actions/setup-pandoc@master
 
       - name: update repo indices # needed if tar balls removed manually
         run: |
@@ -39,5 +40,5 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name  "GitHub Actions"
-          git commit README.md README.html README.Rmd -m "Update README (auto)" || echo "Nothing to commit"
+          git commit README.md index.html -m "Update README (auto)" || echo "Nothing to commit"
           git push origin || echo "Nothing to commit"
