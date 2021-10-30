@@ -42,6 +42,8 @@ You can now install any of my packages that are not available on CRAN using `ins
 
 **Available packages**
 
+Last updated: `r Sys.time()`
+
 ```{r}
 
 knitr::kable(
@@ -54,4 +56,6 @@ knitr::kable(
 
 
 ```
+
+
 

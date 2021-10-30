@@ -25,6 +25,8 @@ using `install.packages()`, or update one of these packages with
 
 **Available packages**
 
-| Package | Version | Imports                                          | NeedsCompilation |
-|:--------|:--------|:-------------------------------------------------|:-----------------|
-| qbr     | 0.0.1   | dplyr, htmlwidgets, palmerpenguins, rlang, shiny | no               |
+Last updated: 2021-10-30 17:50:09
+
+| Package | Version | Imports                          | NeedsCompilation |
+|:--------|:--------|:---------------------------------|:-----------------|
+| qbr     | 0.0.2   | dplyr, htmlwidgets, rlang, shiny | no               |
