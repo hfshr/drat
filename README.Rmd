@@ -1,0 +1,57 @@
+---
+output: 
+  github_document: default
+  html_document: 
+    theme:
+      bootswatch: minty
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_dir = ".", output_format = "all", output_file = c("README.md", "index.html")) })
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  echo = FALSE,
+  comment = "#>"
+)
+```
+
+## drat
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This repo uses Dirk Eddelbuettel's excellent `drat` package for creating a personalised CRAN-like repository.
+
+**Setup**
+
+First install `drat` using the usual method, then run `drat::addRepo("hfshr")` to add this repository to your list of urls.
+
+```
+# install.packages("drat")
+drat::addRepo("hfshr")
+```
+
+**Usage**
+
+You can now install any of my packages that are not available on CRAN using `install.packages()`, or update one of these packages with `update.packages()`.
+
+
+**Available packages**
+
+```{r}
+
+knitr::kable(
+  as.data.frame(
+    as.list(
+      available.packages(repos = "https://hfshr.github.io/drat")[,c(1,2,5,15)] 
+    )
+  )
+)
+
+
+```
+
