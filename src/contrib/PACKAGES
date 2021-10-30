@@ -4,3 +4,11 @@ Imports: dplyr, htmlwidgets, palmerpenguins, rlang, shiny
 License: MIT + file LICENSE
 MD5sum: 1e49e36adebea8a7469569c4e07c5850
 NeedsCompilation: no
+
+Package: qbr
+Version: 0.0.2
+Imports: dplyr, htmlwidgets, rlang, shiny
+Suggests: palmerpenguins
+License: MIT + file LICENSE
+MD5sum: befa5d8b1ff79dede63386eb6265e245
+NeedsCompilation: no
