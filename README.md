@@ -4,6 +4,7 @@
 ## drat
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 This repo uses Dirk Eddelbuettel’s excellent `drat` package for creating
@@ -25,8 +26,8 @@ using `install.packages()`, or update one of these packages with
 
 **Available packages**
 
-Last updated: 2021-10-31 10:15:42
+Last updated: 2021-10-31 10:18:49
 
 | Package | Version | Imports                          | NeedsCompilation |
-|:--------|:--------|:---------------------------------|:-----------------|
+| :------ | :------ | :------------------------------- | :--------------- |
 | qbr     | 0.0.2   | dplyr, htmlwidgets, rlang, shiny | no               |
