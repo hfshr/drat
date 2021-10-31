@@ -4,7 +4,6 @@
 ## drat
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 This repo uses Dirk Eddelbuettel’s excellent `drat` package for creating
@@ -26,9 +25,9 @@ using `install.packages()`, or update one of these packages with
 
 **Available packages**
 
-Last updated: 2021-10-31 12:12:50
+Last updated: 2021-10-31 12:24:33
 
-| X.poweRof10.                 | X.qbr.                           | X.0.0.3. | X.0.0.2. | X.attempt..dplyr..httr..janitor..magrittr..polite..purrr..rvest..nstringr..tibble..xml2..rlang. | X.dplyr..htmlwidgets..rlang..shiny. | X.no. | X.no..1 |
-| :--------------------------- | :------------------------------- | :------- | :------- | :---------------------------------------------------------------------------------------------- | :---------------------------------- | :---- | :------ |
-| poweRof10                    | qbr                              | 0.0.3    | 0.0.2    | attempt, dplyr, httr, janitor, magrittr, polite, purrr, rvest,                                  |                                     |       |         |
-| stringr, tibble, xml2, rlang | dplyr, htmlwidgets, rlang, shiny | no       | no       |                                                                                                 |                                     |       |         |
+| Package   | Version | NeedsCompilation |
+|:----------|:--------|:-----------------|
+| poweRof10 | 0.0.3   | no               |
+| qbr       | 0.0.2   | no               |
