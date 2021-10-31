@@ -10,5 +10,5 @@ Version: 0.0.2
 Imports: dplyr, htmlwidgets, rlang, shiny
 Suggests: palmerpenguins
 License: MIT + file LICENSE
-MD5sum: befa5d8b1ff79dede63386eb6265e245
+MD5sum: ecbe2e64d976a486373276c238a68082
 NeedsCompilation: no
