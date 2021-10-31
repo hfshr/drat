@@ -4,7 +4,7 @@ Imports: attempt, dplyr, httr, janitor, magrittr, polite, purrr, rvest,
         stringr, tibble, xml2, rlang
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 0523dc21e935b5718b495faeaed584cf
+MD5sum: 175cf4272a4548da927895f87c9d813c
 NeedsCompilation: no
 
 Package: qbr
