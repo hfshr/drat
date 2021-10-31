@@ -1,3 +1,12 @@
+Package: poweRof10
+Version: 0.0.3
+Imports: attempt, dplyr, httr, janitor, magrittr, polite, purrr, rvest,
+        stringr, tibble, xml2, rlang
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 0523dc21e935b5718b495faeaed584cf
+NeedsCompilation: no
+
 Package: qbr
 Version: 0.0.1
 Imports: dplyr, htmlwidgets, palmerpenguins, rlang, shiny
