@@ -32,7 +32,8 @@ jobs:
         if: success()
         run: |
           install.packages(c('rmarkdown', 'bslib', 'knitr'))
-          rmarkdown::render("README.Rmd")
+          rmarkdown::render("README.Rmd", output_format = "html_document", output_file = "index.html")
+          rmarkdown::render("README.Rmd", output_format = "github_document")
         shell: Rscript {0}
 
       - name: Commit and push

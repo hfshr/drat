@@ -25,7 +25,7 @@ using `install.packages()`, or update one of these packages with
 
 **Available packages**
 
-Last updated: 2021-10-30 17:50:09
+Last updated: 2021-10-31 10:13:28
 
 | Package | Version | Imports                          | NeedsCompilation |
 |:--------|:--------|:---------------------------------|:-----------------|

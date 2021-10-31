@@ -1,6 +1,7 @@
 ---
 output: 
-  github_document: default
+  github_document: 
+    html_preview: false
   html_document: 
     theme:
       bootswatch: minty
