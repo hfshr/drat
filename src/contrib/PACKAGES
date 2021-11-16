@@ -21,3 +21,11 @@ Suggests: palmerpenguins
 License: MIT + file LICENSE
 MD5sum: ecbe2e64d976a486373276c238a68082
 NeedsCompilation: no
+
+Package: qbr
+Version: 0.0.2.1
+Imports: dplyr, htmlwidgets, rlang, shiny
+Suggests: palmerpenguins
+License: MIT + file LICENSE
+MD5sum: 9148e338925580b7f7b681c332426d39
+NeedsCompilation: no
