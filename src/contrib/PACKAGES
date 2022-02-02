@@ -29,3 +29,11 @@ Suggests: palmerpenguins
 License: MIT + file LICENSE
 MD5sum: 9148e338925580b7f7b681c332426d39
 NeedsCompilation: no
+
+Package: qbr
+Version: 1.0.0
+Imports: htmltools, shiny, jsonlite
+Suggests: testthat (>= 3.0.0), bslib
+License: MIT + file LICENSE
+MD5sum: 356c81d13d80618b536c2115d2d99918
+NeedsCompilation: no
