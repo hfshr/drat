@@ -35,5 +35,5 @@ Version: 1.0.0
 Imports: htmltools, shiny, jsonlite
 Suggests: testthat (>= 3.0.0), bslib
 License: MIT + file LICENSE
-MD5sum: 356c81d13d80618b536c2115d2d99918
+MD5sum: 7a048efff5a7dfbb2ff4683c7f30adf0
 NeedsCompilation: no
