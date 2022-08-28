@@ -26,9 +26,9 @@ using `install.packages()`, or update one of these packages with
 
 **Available packages**
 
-Last updated: 2022-07-31 07:42:07
+Last updated: 2022-08-28 18:12:05
 
 | Package   | Version | NeedsCompilation |
 | :-------- | :------ | :--------------- |
 | poweRof10 | 0.0.3   | no               |
-| qbr       | 1.0.1   | no               |
+| qbr       | 1.0.2   | no               |
