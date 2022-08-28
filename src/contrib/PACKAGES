@@ -45,3 +45,11 @@ Suggests: bslib, packer, testthat (>= 3.0.0)
 License: MIT + file LICENSE
 MD5sum: eb1a779dd15df822ea247a5325f4dc67
 NeedsCompilation: no
+
+Package: qbr
+Version: 1.0.2
+Imports: htmltools, jsonlite, shiny
+Suggests: bslib, packer, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: fc9fd6891bd2ee9ecc7887821f407fa6
+NeedsCompilation: no
