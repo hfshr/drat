@@ -4,7 +4,6 @@
 ## drat
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 This repo uses Dirk Eddelbuettel’s excellent `drat` package for creating
@@ -26,9 +25,10 @@ using `install.packages()`, or update one of these packages with
 
 **Available packages**
 
-Last updated: 2022-08-28 18:12:05
+Last updated: 2023-08-08 19:03:18.861627
 
 | Package   | Version | NeedsCompilation |
-| :-------- | :------ | :--------------- |
+|:----------|:--------|:-----------------|
+| jqbr      | 1.0.3   | no               |
 | poweRof10 | 0.0.3   | no               |
 | qbr       | 1.0.2   | no               |
