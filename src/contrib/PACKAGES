@@ -1,3 +1,11 @@
+Package: jqbr
+Version: 1.0.3
+Imports: htmltools, jsonlite, shiny
+Suggests: bslib, packer, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: 9509294eb675297caf799b4ff5291174
+NeedsCompilation: no
+
 Package: poweRof10
 Version: 0.0.3
 Imports: attempt, dplyr, httr, janitor, magrittr, polite, purrr, rvest,
@@ -20,4 +28,36 @@ Imports: dplyr, htmlwidgets, rlang, shiny
 Suggests: palmerpenguins
 License: MIT + file LICENSE
 MD5sum: ecbe2e64d976a486373276c238a68082
+NeedsCompilation: no
+
+Package: qbr
+Version: 0.0.2.1
+Imports: dplyr, htmlwidgets, rlang, shiny
+Suggests: palmerpenguins
+License: MIT + file LICENSE
+MD5sum: 9148e338925580b7f7b681c332426d39
+NeedsCompilation: no
+
+Package: qbr
+Version: 1.0.0
+Imports: htmltools, shiny, jsonlite
+Suggests: testthat (>= 3.0.0), bslib
+License: MIT + file LICENSE
+MD5sum: 95137a043db98ad3ab5cf28f0c3059e7
+NeedsCompilation: no
+
+Package: qbr
+Version: 1.0.1
+Imports: htmltools, jsonlite, shiny
+Suggests: bslib, packer, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: eb1a779dd15df822ea247a5325f4dc67
+NeedsCompilation: no
+
+Package: qbr
+Version: 1.0.2
+Imports: htmltools, jsonlite, shiny
+Suggests: bslib, packer, testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: fc9fd6891bd2ee9ecc7887821f407fa6
 NeedsCompilation: no
