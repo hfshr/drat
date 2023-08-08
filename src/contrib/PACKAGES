@@ -3,7 +3,7 @@ Version: 1.0.3
 Imports: htmltools, jsonlite, shiny
 Suggests: bslib, packer, testthat (>= 3.0.0)
 License: MIT + file LICENSE
-MD5sum: 9509294eb675297caf799b4ff5291174
+MD5sum: 764c4ada6485e3eb1c773f98b525d119
 NeedsCompilation: no
 
 Package: poweRof10
